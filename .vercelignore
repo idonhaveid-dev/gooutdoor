@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+raw-data
+codex-backups
+backup-before-rollback.patch
+*.log
