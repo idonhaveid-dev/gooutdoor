@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/jobs/rebuild-view-recommendations?slot=1000",
+      "schedule": "10 1 * * *"
+    },
+    {
+      "path": "/api/jobs/rebuild-view-recommendations?slot=1300",
+      "schedule": "10 4 * * *"
+    }
+  ]
+}

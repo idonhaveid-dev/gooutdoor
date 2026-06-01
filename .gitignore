@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
+
+# local working artifacts
+backup-before-rollback.patch
+codex-backups/
+raw-data/
